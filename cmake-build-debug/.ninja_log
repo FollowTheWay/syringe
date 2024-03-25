@@ -1,0 +1,10 @@
+# ninja log v5
+6	628	7330457564384929	CMakeFiles/syringe.dir/main.cpp.obj	37adf652389f5772
+629	878	7330457566845111	syringe.exe	79b42fb5f42e50c7
+8	820	7330454590995717	CMakeFiles/syringe.dir/src/type.cpp.obj	6ffd8beae6d6db4e
+1	363	7330458915258070	build.ninja	a0955dc036d98f28
+16	666	7330458922328619	CMakeFiles/syringe.dir/src/syringe.cpp.obj	d563e713322a489d
+5	669	7330458922348618	CMakeFiles/syringe.dir/main.cpp.obj	37adf652389f5772
+669	937	7330458924998812	syringe.exe	f7d07ba90d683197
+7	661	7330459350781704	CMakeFiles/syringe.dir/src/syringe.cpp.obj	d563e713322a489d
+662	918	7330459353311914	syringe.exe	f7d07ba90d683197
